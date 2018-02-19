@@ -10,7 +10,7 @@ union Data{
 
 
 int main(){
-	
+		
 	union Data data;
 	data.i = 5;
 	data.f = 9.8;
