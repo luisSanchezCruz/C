@@ -1,6 +1,6 @@
 #include <stdio.h>
  
-int count ;
+int count;
 extern void write_extern();
  
 main() {
